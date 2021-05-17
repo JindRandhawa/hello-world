@@ -1,0 +1,90 @@
+*
+{
+    margin: auto;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-image: linear-gradient(to right, #accff0, #5c8ac0, #062438);
+}
+
+
+#container
+{
+    margin-top: 50px;
+    background-color: rgb(243, 40, 40);
+    height: 800px;
+    width: 80%;
+    margin: auto;
+    box-shadow: -3px 3px 5px black;
+}
+
+header
+{
+    padding: 15px;
+    text-align: center;
+    background-color: rgb(30, 158, 98);
+    height: 8%;
+}
+
+nav
+{
+    float: left;
+    height: 85%;
+    width: 20%;
+    background-color: burlywood;
+    text-align: center;
+}
+
+nav a
+{
+    text-decoration: none;
+}
+
+main
+{
+    margin-left: 20%;
+    width: 60%;
+    background-color: cornsilk;
+    height: 85%;
+    /* overflow: auto; */
+}
+
+aside
+{
+    float: right;
+    width: 20%;
+    background-color: rgb(202, 202, 235);
+    height: 85%;
+}
+
+footer
+{
+    background-color: cyan;
+    height: 7%;
+    margin-top: 0%;
+}
+
+figure
+{
+    width: 80% ;
+}
+
+figcaption
+{
+    font-family: papyyrus, fantasy;
+    text-align: center;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+img
+{
+    max-width: 30%;
+    height: auto;
+}
+
